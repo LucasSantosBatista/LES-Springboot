@@ -8,11 +8,18 @@ For further reference, please consider the following sections:
 * [Create an OCI image](https://docs.spring.io/spring-boot/3.5.0-SNAPSHOT/maven-plugin/build-image.html)
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/3.5.0-SNAPSHOT/reference/using/devtools.html)
 * [Thymeleaf](https://docs.spring.io/spring-boot/3.5.0-SNAPSHOT/reference/web/servlet.html#web.servlet.spring-mvc.template-engines)
+* [Spring Web](https://docs.spring.io/spring-boot/3.5.0-SNAPSHOT/reference/web/servlet.html)
+* [Spring Data JPA](https://docs.spring.io/spring-boot/3.5.0-SNAPSHOT/reference/data/sql.html#data.sql.jpa-and-spring-data)
 
 ### Guides
 The following guides illustrate how to use some features concretely:
 
 * [Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/)
+* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+* [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
+* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 
 ### Maven Parent overrides
 
